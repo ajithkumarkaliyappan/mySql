@@ -1,0 +1,2 @@
+# mySql
+assignments and projects
